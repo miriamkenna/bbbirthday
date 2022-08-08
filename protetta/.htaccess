@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Sito Protetto"
-AuthUserFile miriamkenna/bbbirthday/.htpasswd
+AuthUserFile C:\Users\KennaMFatima\Desktop\Marco\protetta\.htpasswd
 require valid-user
